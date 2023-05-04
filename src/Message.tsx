@@ -3,10 +3,10 @@
 function Message(){
 
     // JSX: Javascript XML
-    const name='';
+    const name='ZC';
     if(name)
         return <h1>Hello {name}</h1>;
-    return <h1>Hello WOrld</h1>
+    return <h1>Hello World</h1>
 
 
 
